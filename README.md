@@ -2,7 +2,7 @@
   <img src="images/telco_churn_cover.png" alt="Project Banner" width="100%">
 </p>
 
-# 📊 Telco Customer Churn Pricing & Retention Analysis
+# Telco Customer Churn Pricing & Retention Analysis
 
 > **End-to-End Machine Learning Project | Regression & Classification | Business Analytics**
 
@@ -19,7 +19,7 @@ The project follows a complete end-to-end machine learning workflow, beginning w
 
 ---
 
-### 🏢 Business Problem
+###  Business Problem
 
 The telecom company wants to answer two important business questions:
 
@@ -39,7 +39,7 @@ By solving these problems, the company can improve pricing decisions and reduce 
 
 ---
 
-### 📂 Dataset
+###  Dataset
 
 **Dataset:** IBM Telco Customer Churn Dataset
 
@@ -110,7 +110,7 @@ The pipeline illustrates how customer data is transformed into predictive insigh
 
 ---
 
-### 🤖 Machine Learning Tasks
+###  Machine Learning Tasks
 
 <p align="center">
 <img src="images/regression_vs_classification.png" width="95%">
@@ -144,7 +144,7 @@ The pipeline illustrates how customer data is transformed into predictive insigh
 
 ---
 
-### 📈 Exploratory Data Analysis Highlights
+### Exploratory Data Analysis Highlights
 
 Key findings from the analysis include:
 
@@ -157,7 +157,7 @@ Key findings from the analysis include:
 
 ---
 
-### 📊 Model Performance
+###  Model Performance
 
 #### Regression Models
 
@@ -179,7 +179,7 @@ Key findings from the analysis include:
 
 ---
 
-### 🔍 Key Insights
+###  Key Insights
 
 - Internet service type is the strongest driver of monthly charges.
 - Customer tenure is the strongest predictor of churn.
@@ -200,7 +200,7 @@ Key findings from the analysis include:
 
 ---
 
-### 🛠️ Technologies Used
+###  Technologies Used
 
 - Python
 - Pandas
@@ -213,7 +213,7 @@ Key findings from the analysis include:
 
 ---
 
-### 📁 Repository Structure
+###  Repository Structure
 
 ```text
 Telco-Customer-Churn-Pricing-Retention-Analysis
@@ -247,7 +247,7 @@ Telco-Customer-Churn-Pricing-Retention-Analysis
 
 ---
 
-### 👩‍💻 Author
+###  Author
 
 **Saira Ashraf**
 
@@ -257,4 +257,4 @@ Aspiring AI Software Engineer | Machine Learning Enthusiast | Data Science Learn
 
 ---
 
-⭐ If you found this project interesting, consider giving the repository a star!
+ If you found this project interesting, consider giving the repository a star!
