@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/project_banner.png" alt="Project Banner" width="100%">
+  <img src="images/telco_churn_cover.png" alt="Project Banner" width="100%">
 </p>
 
 # 📊 Telco Customer Churn Pricing & Retention Analysis
