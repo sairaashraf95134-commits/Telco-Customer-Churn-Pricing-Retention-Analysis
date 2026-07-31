@@ -6,7 +6,7 @@
 
 > **End-to-End Machine Learning Project | Regression & Classification | Business Analytics**
 
-## 📌 Project Overview
+### Project Overview
 
 Customer retention is one of the biggest challenges in the telecommunications industry. Losing existing customers increases acquisition costs and directly impacts revenue. At the same time, understanding the factors influencing monthly pricing helps companies optimize their pricing strategies.
 
@@ -19,7 +19,7 @@ The project follows a complete end-to-end machine learning workflow, beginning w
 
 ---
 
-# 🏢 Business Problem
+### 🏢 Business Problem
 
 The telecom company wants to answer two important business questions:
 
@@ -30,7 +30,7 @@ By solving these problems, the company can improve pricing decisions and reduce 
 
 ---
 
-# 🎯 Project Objectives
+### Project Objectives
 
 - Predict customer monthly charges using regression.
 - Predict customer churn using classification.
@@ -39,18 +39,18 @@ By solving these problems, the company can improve pricing decisions and reduce 
 
 ---
 
-# 📂 Dataset
+### 📂 Dataset
 
 **Dataset:** IBM Telco Customer Churn Dataset
 
 The dataset contains customer demographic information, subscribed services, billing details, contract information, and churn status.
 
-### Dataset Summary
+##### Dataset Summary
 
 - **Rows:** 7,043
 - **Columns:** 21
 
-### Key Variables
+##### Key Variables
 
 - Gender
 - Senior Citizen
@@ -74,7 +74,7 @@ The dataset contains customer demographic information, subscribed services, bill
 
 ---
 
-# 🔄 Project Workflow
+### Project Workflow
 
 <p align="center">
 <img src="images/ml_project_workflow.png" width="95%">
@@ -100,7 +100,7 @@ The project follows a structured machine learning pipeline consisting of:
 
 ---
 
-# 💼 Business Solution Pipeline
+### Business Solution Pipeline
 
 <p align="center">
 <img src="images/business_solution_pipeline.png" width="95%">
@@ -110,13 +110,13 @@ The pipeline illustrates how customer data is transformed into predictive insigh
 
 ---
 
-# 🤖 Machine Learning Tasks
+### 🤖 Machine Learning Tasks
 
 <p align="center">
 <img src="images/regression_vs_classification.png" width="95%">
 </p>
 
-### Regression Task
+##### Regression Task
 
 **Target Variable**
 
@@ -130,7 +130,7 @@ The pipeline illustrates how customer data is transformed into predictive insigh
 
 ---
 
-### Classification Task
+##### Classification Task
 
 **Target Variable**
 
@@ -144,7 +144,7 @@ The pipeline illustrates how customer data is transformed into predictive insigh
 
 ---
 
-# 📈 Exploratory Data Analysis Highlights
+### 📈 Exploratory Data Analysis Highlights
 
 Key findings from the analysis include:
 
@@ -157,9 +157,9 @@ Key findings from the analysis include:
 
 ---
 
-# 📊 Model Performance
+### 📊 Model Performance
 
-## Regression Models
+#### Regression Models
 
 | Model | MSE | R² Score |
 |--------|------:|------:|
@@ -169,7 +169,7 @@ Key findings from the analysis include:
 
 ---
 
-## Classification Models
+#### Classification Models
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |--------|---------:|----------:|-------:|---------:|
@@ -179,7 +179,7 @@ Key findings from the analysis include:
 
 ---
 
-# 🔍 Key Insights
+### 🔍 Key Insights
 
 - Internet service type is the strongest driver of monthly charges.
 - Customer tenure is the strongest predictor of churn.
@@ -189,7 +189,7 @@ Key findings from the analysis include:
 
 ---
 
-# 💡 Business Recommendations
+### Business Recommendations
 
 - Improve onboarding for new customers.
 - Encourage customers to adopt long-term contracts.
@@ -200,7 +200,7 @@ Key findings from the analysis include:
 
 ---
 
-# 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -213,7 +213,7 @@ Key findings from the analysis include:
 
 ---
 
-# 📁 Repository Structure
+### 📁 Repository Structure
 
 ```text
 Telco-Customer-Churn-Pricing-Retention-Analysis
@@ -237,7 +237,7 @@ Telco-Customer-Churn-Pricing-Retention-Analysis
 
 ---
 
-# 🚀 Future Improvements
+### Future Improvements
 
 - Hyperparameter tuning
 - Ensemble boosting algorithms (XGBoost, LightGBM, CatBoost)
@@ -247,7 +247,7 @@ Telco-Customer-Churn-Pricing-Retention-Analysis
 
 ---
 
-# 👩‍💻 Author
+### 👩‍💻 Author
 
 **Saira Ashraf**
 
